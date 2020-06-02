@@ -2,10 +2,11 @@
   <img width="200" src="http://sawastudio.me/fi44/gostack.png">
 </p>
 <p align="center">
-  <img src="http://sawastudio.me/fi44/gofinances-git.png">
+
+   <img src="http://sawastudio.me/fi44/gofinances-bootcamp-git.png">
 </p>
 
-<p align="center">b
+<p align="center">
     <h2>GoFinances, ReactJS </h2>
 </p>
 
