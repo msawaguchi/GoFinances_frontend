@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <h2>GoFinances, ReactJS </h2>
+    <h3 align="center">GoFinances, ReactJS </h3>
 </p>
 
 ## :pushpin: About
